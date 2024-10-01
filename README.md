@@ -1,5 +1,5 @@
 <h3 align="center">
-Hi there, I'm <a href="https://dom-dang.github.io/" target="_blank" rel="noreferrer">Dom!</a> 👋
+Hi, I'm <a href="https://dom-dang.github.io/" target="_blank" rel="noreferrer">Dom!</a> 👋
 </h3>
 
 - 🌱 undergrad @mit, studying cs & bio
