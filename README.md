@@ -1,17 +1,17 @@
-<h2 align= 'center'>hi, i'm 
-  <a href="https://dom-dang.github.io/" target="_blank" rel="noreferrer">dom 👋</a>
-</h2>
+<h1 align= 'center'>hi, i'm 
+  <a href="https://dom-dang.github.io/" target="_blank" rel="noreferrer">dom </a>! 👋
+</h1>
 
-### About Me
-- 🌱 undergrad @ **MIT**, studying **cs + bio**
-- 🖥️ previously @ **Novartis**, predicting tumorigenesis of human cancer cell lines in mice models
-- 🧪 currently @ **Broad Institute**, dissecting immune response regulation in melanoma in 
-  <a href="https://hacohenlab.mgh.harvard.edu/" target="_blank" rel="noreferrer">Nir Hacohen's Lab</a>
-- ✉️ reach me at **ddang [at] mit [dot] edu**
+## about me 𓆝 𓆟 𓆞 
+- 🌱 undergrad @**mit**, studying cs + bio
+- 🖥️ prev @**novartis**, predicting tumorigenesis of human cancer cell lines in mice models
+- 🧪 currently @**broad institute**, dissecting immune response regulation in melanoma in 
+  <a href="https://hacohenlab.mgh.harvard.edu/" target="_blank" rel="noreferrer">nir hacohen's</a> lab
+- ✉️ reach me at ddang [at] mit [dot] edu
 
 ---
 
-### 🛠️ Technical Skills
+## technical skills 𓆝 𓆟 𓆞 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
