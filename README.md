@@ -8,7 +8,6 @@
 - 🧪 currently @**broad institute**, dissecting the regulators of immune responses in human melanoma in <a href="https://hacohenlab.mgh.harvard.edu/" target="_blank" rel="noreferrer">nir hacohen's</a> lab
 - ✉️ reach me at [ddang@mit.edu](mailto:ddang@mit.edu)
 
----
 
 ## technical skills 𓆝 𓆟 𓆞 
 <p>
