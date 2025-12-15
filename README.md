@@ -4,8 +4,8 @@
 
 ## about me 𓆝 𓆟 𓆞 
 - 🌱 undergrad @mit, studying cs + bio
-- 🖥️ prev @<a href="https://www.linkedin.com/posts/dominique-dang_this-summer-i-had-the-incredible-opportunity-activity-7359216081116274690-MZXP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADH0pf8BkofrUExDEBrFz1TLPpabtxAKpK8" target="_blank" rel="noreferrer">novartis</a>, predicting tumorigenesis of human cancer cell lines in mice models
-- 🧪 currently @<a href="https://www.broadinstitute.org/" target="_blank" rel="noreferrer">the broad institute</a>, dissecting the regulators of immune responses in human melanoma in <a href="https://hacohenlab.mgh.harvard.edu/" target="_blank" rel="noreferrer">nir hacohen's</a> lab
+- 🖥️ previously at <a href="https://www.linkedin.com/posts/dominique-dang_this-summer-i-had-the-incredible-opportunity-activity-7359216081116274690-MZXP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADH0pf8BkofrUExDEBrFz1TLPpabtxAKpK8" target="_blank" rel="noreferrer">novartis</a>, predicting tumorigenesis of human cancer cell lines in mice models
+- 🧪 currently dissecting the regulators of immune responses in human melanoma in <a href="https://hacohenlab.mgh.harvard.edu/" target="_blank" rel="noreferrer">nir hacohen's</a> lab at the <a href="https://www.broadinstitute.org/" target="_blank" rel="noreferrer">the broad institute</a>,
 - ✉️ reach me at [ddang@mit.edu](mailto:ddang@mit.edu)
 
 
